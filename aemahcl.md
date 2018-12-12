@@ -1,5 +1,5 @@
 ## AEAm&bullet;HCl
-![](media/15166493272299/15166504867982.jpg)
+##### Xinming Tong, Jan-16 2018
 
 ### Materials
 1. N-Boc-1,2-diaminoethane (MW 160.21, d. 1.012; N-Boc-ethylenediamine, tert-Butyl N-(2-aminoethyl)carbamate; Oakwood products, $73.5/100g)
