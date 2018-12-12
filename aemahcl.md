@@ -1,4 +1,4 @@
-## AEAm&bullet;HCl
+## AEAm\&bullet;HCl
 ##### Xinming Tong, Jan-16 2018
 
 ### Materials
@@ -16,7 +16,7 @@
 5. Stir overnight.
 6. Filter to remove the insoluble salt. 
 7. Evaporate solvent and vacuum dry. 
-    * DO NOT heat the solution over 40&deg;C, or may lead to undesirable polymerization. 
+    * DO NOT heat the solution over 40\&deg;C, or may lead to undesirable polymerization. 
 
 **[Note]**: Use larger volume and low temperature may help avoid self-polymerization of the acrylamide groups.
 
