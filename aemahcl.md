@@ -12,7 +12,7 @@
 2. Cool solution with ice bath.
 3. Add 9 mL TEA to the solution.
 4. Dissolve 5.5 mL acryloyl chlodride in 30 mL THF and then drop into the solution above.
-    * TEA&bullet;HCl salt will form as precipitate. 
+    * TEA∙HCl salt will form as precipitate. 
 5. Stir overnight.
 6. Filter to remove the insoluble salt. 
 7. Evaporate solvent and vacuum dry. 
